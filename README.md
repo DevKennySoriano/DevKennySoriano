@@ -1,16 +1,84 @@
-## Hi there 👋
+# Kenny Soriano
 
-<!--
-**DevKennySoriano/DevKennySoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Bachelor of Science in Computer Science graduate focused on web application development, improving user experience, and continuously growing through real-world development projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+Bachelor of Science in Computer Science
+STI College
+
+---
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/kennysoriano/
+* GitHub: https://github.com/DevKennySoriano
+* Portfolio: https://devkennysoriano.vercel.app/
+* Email: [devkennysoriano@gmail.com](mailto:devkennysoriano@gmail.com)
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,bootstrap,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
+</p>
+
+### Workflow & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,vite,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevKennySoriano&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevKennySoriano&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## Featured Projects
+
+* Portfolio Website – A personal site showcasing my work and skills
+* Full-Stack Applications – Built using modern JavaScript frameworks and backend technologies
+* Ongoing Projects – Focused on improving performance, scalability, and user experience
+
+---
+
+## About
+
+* Focused on full-stack web development
+* Continuously learning modern technologies and best practices
+* Interested in building efficient, user-centered applications
+
+---
+
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+Thanks for visiting my profile.
