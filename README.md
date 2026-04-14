@@ -18,19 +18,29 @@ STI College
 
 <p>
 
-<img src="https://img.shields.io/badge/LinkedIn-Kenny%20Soriano-0A66C2?style=flat&logo=linkedin&logoColor=white" />  
+<a href="https://www.linkedin.com/in/kennysoriano/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kenny%20Soriano-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
 <br><br>
 
-<img src="https://img.shields.io/badge/GitHub-DevKennySoriano-181717?style=flat&logo=github&logoColor=white" />  
+<a href="https://github.com/DevKennySoriano" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-DevKennySoriano-181717?style=flat&logo=github&logoColor=white" />
+</a>
+
 <br><br>
 
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" />  
+<a href="https://devkennysoriano.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" />
+</a>
+
 <br><br>
 
-<img src="https://img.shields.io/badge/Email-devkennysoriano%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+<a href="mailto:devkennysoriano@gmail.com">
+  <img src="https://img.shields.io/badge/Email-devkennysoriano%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 </p>
-
 ---
 
 ## Technical Skills
